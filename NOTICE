@@ -1,0 +1,10 @@
+meridian-bank-of-canada
+Copyright 2026 Societal Lab Inc.
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+The data this plugin reads are the Bank of Canada's, published on its
+website and its Valet API. The Bank allows its content to be used, copied
+and distributed with credit to the Bank and a note of any changes; a paid
+service including it must tell its buyers it is free on the Bank's website.
+This project is not affiliated with or endorsed by the Bank of Canada.

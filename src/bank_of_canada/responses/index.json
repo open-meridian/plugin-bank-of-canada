@@ -1,0 +1,7 @@
+{
+  "said": "The Bank of Canada's real responses, recorded by meridian-bank-of-canada's authors on 2026-11-19, the body gzipped: Valet's CORRA with its percentiles and volume, the CORRA Compounded Index and the target for the overnight rate; its benchmark bond yields; and its daily exchange rates, each from 3 August to 19 November 2026, as JSON; and the zero-coupon yield curves from 3 August 2026 to the latest published, 28 October 2026, as CSV. The Bank allows its website's content to be used, copied and distributed with credit to the Bank and a note of any changes, implying no endorsement (https://www.bankofcanada.ca/terms/). Sample data answers each request for a range from them, and the tests read them.",
+  "rates": {"file": "rates-20260803-20261119.json.gz", "date": "Thu, 19 Nov 2026 13:17:58 GMT", "last_day": "2026-11-18"},
+  "bonds": {"file": "bonds-20260803-20261119.json.gz", "date": "Thu, 19 Nov 2026 13:17:58 GMT", "last_day": "2026-11-17"},
+  "fx": {"file": "fx-20260803-20261119.json.gz", "date": "Thu, 19 Nov 2026 13:17:59 GMT", "last_day": "2026-11-18"},
+  "zero": {"file": "zero-20260803-20261028.csv.gz", "date": "Thu, 19 Nov 2026 13:17:59 GMT", "last_day": "2026-10-28"}
+}
